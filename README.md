@@ -13,7 +13,7 @@
   <a href="mailto:prince19tri@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/Prince19tri?tab=followers">
+  <a href="https://github.com/iPrince-Tripathi?tab=followers">
     <img alt="Follow" src="https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -36,7 +36,7 @@ This **interactive FMCG Sales Dashboard** offers deep insight into 3 years of tr
 ## 🎥 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/f0775be5c41e2653d97d1a0531c7d063b1722f2e/FMCG/FMCG%20Sales%20Dashboard.png" width="950"/>
+  <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/main/FMCG/FMCG%20Sales%20Dashboard.png" width="950"/>
 </p>
 
 ---
@@ -82,29 +82,29 @@ This **interactive FMCG Sales Dashboard** offers deep insight into 3 years of tr
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/f0775be5c41e2653d97d1a0531c7d063b1722f2e/FMCG/Transactions.png" width="70" alt="Transactions Overview" />
+        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/main/FMCG/Transactions.png" width="70" alt="Transactions Overview" />
         <br/><b>Transactions</b>
       </td>
       <td align="center">
-        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/f0775be5c41e2653d97d1a0531c7d063b1722f2e/FMCG/T-%20Sales.png" width="70" alt="Total Sales Trend" />
+        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/main/FMCG/T-%20Sales.png" width="70" alt="Total Sales Trend" />
         <br/><b>Total Sales</b>
       </td>
       <td align="center">
-        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/f0775be5c41e2653d97d1a0531c7d063b1722f2e/FMCG/SKU.png" width="70" alt="Top SKUs" />
+        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/main/FMCG/SKU.png" width="70" alt="Top SKUs" />
         <br/><b>Top SKUs</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/f0775be5c41e2653d97d1a0531c7d063b1722f2e/FMCG/Quantity.png" width="70" alt="Quantity Sold" />
+        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/main/FMCG/Quantity.png" width="70" alt="Quantity Sold" />
         <br/><b>Quantity Sold</b>
       </td>
       <td align="center">
-        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/f0775be5c41e2653d97d1a0531c7d063b1722f2e/FMCG/Promotion.webp" width="70" alt="Promotion Impact" />
+        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/main/FMCG/Promotion.webp" width="70" alt="Promotion Impact" />
         <br/><b>Promotion Impact</b>
       </td>
       <td align="center">
-        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/f0775be5c41e2653d97d1a0531c7d063b1722f2e/FMCG/Average.png" width="70" alt="Monthly Average Sales" />
+        <img src="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/main/FMCG/Average.png" width="70" alt="Monthly Average Sales" />
         <br/><b>Monthly Avg Sales</b>
       </td>
     </tr>
@@ -120,7 +120,7 @@ This **interactive FMCG Sales Dashboard** offers deep insight into 3 years of tr
   <a href="https://kaggle.com/" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
-  <a href="https://github.com/Prince19tri" target="_blank">
+  <a href="https://github.com/iPrince-Tripathi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   <a href="https://www.canva.com/" target="_blank">
@@ -161,7 +161,7 @@ This **interactive FMCG Sales Dashboard** offers deep insight into 3 years of tr
 <p align="center">
   <b>Let's stay connected!</b><br/>
   📫 <a href="mailto:prince19tri@gmail.com">Send me an email</a> •  
-  💼 <a href="https://www.linkedin.com/in/your-linkedin/">Connect on LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/iprince-tripathi/">Connect on LinkedIn</a>
 </p>
 
 <p align="center">
@@ -179,19 +179,8 @@ This **interactive FMCG Sales Dashboard** offers deep insight into 3 years of tr
 
 ---
 <p align="center">
-  ✍️ <a href="https://github.com/Prince19tri/your-repo-name/discussions">Leave a Public Feedback Here</a>
+  ✍️ <a href="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/discussions">Leave a Public Feedback Here</a>
 </p>
 
-<p align="center">
-  <a href="#overview"><img src="https://img.shields.io/badge/📊_Overview-Click-blue?style=for-the-badge"></a>
-  <a href="#preview"><img src="https://img.shields.io/badge/🎥_Preview-Dashboard-green?style=for-the-badge"></a>
-  <a href="#features"><img src="https://img.shields.io/badge/⚙️_Features-Yellow?style=for-the-badge"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourrepo/secret" title="Click if you're curious 😉">
-    <img src="https://img.shields.io/badge/🎁_Secret_Gift-Click_Me!-purple?style=for-the-badge" />
-  </a>
-</p>
 
 
