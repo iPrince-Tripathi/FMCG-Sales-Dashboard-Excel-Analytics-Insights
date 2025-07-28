@@ -16,6 +16,9 @@
   <a href="https://github.com/iPrince-Tripathi?tab=followers">
     <img alt="Follow" src="https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge" alt="MIT License Badge"/>
+  </a>
 </p>
 
 ---
